@@ -5,7 +5,7 @@ Unity folder structure creator lets you to create folder structure for your unit
 - [Unity 5.X or above](https://unity3d.com/get-unity/download/archive)
 
 ## Installation
-- Download the unity package here
+- Download the unity package [here](https://github.com/shrimoni/Unity-Folder-Structure-Creator/releases/download/v0.1/unity-folder-structure-creator.unitypackage)
 - Open 5.X or above
 - Goto Assets -> Import Package -> Custom Package
 - Select the downloaded unity package
