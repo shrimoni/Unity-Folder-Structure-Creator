@@ -15,7 +15,7 @@ Unity folder structure creator lets you to create folder structure for your unit
 - Once the package is imported into the Unity
 - Goto Menu -> Tools -> CreateFolderStructure
 
-## Add more folders
+## To Add more folders
 - Goto Project Window
 - Open Assets -> Editor -> FolderStructure.cs
 - Under the folder names list, add your folder name
